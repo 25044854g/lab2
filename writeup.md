@@ -36,11 +36,14 @@ I chose Google Cloud Translate API for the translation functionality. This requi
 
 For cloud database storage, I set up Supabase: 
 - Created a new Supabase project 
-- Configured the PostgreSQL database - Generated API keys for authentication
+- Configured the PostgreSQL database 
+-  Generated API keys for authentication
 
 ![](C:\Users\Jennifer\Desktop\sem1\COMP5241\Lab2\3b621395d78ea7607f49081a25e80e79.png)
 
 ![](C:\Users\Jennifer\Desktop\sem1\COMP5241\Lab2\0456ce3a2d645bfc2e1b6b646f36cc09.png)
+
+![](C:\Users\Jennifer\Desktop\sem1\COMP5241\Lab2\6fde44fc4d71d79a50079a69bb055e99.png)
 
 ### 3. Environment Variables Configuration 
 To securely manage sensitive information, I set up environment variables: 
